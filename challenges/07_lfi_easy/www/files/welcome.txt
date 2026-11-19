@@ -1,0 +1,2 @@
+Welcome to the Acme document portal.
+All public documents live in this folder. Use ?file=<name> to download one.

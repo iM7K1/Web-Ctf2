@@ -1,0 +1,3 @@
+Acceptable Use Policy (excerpt)
+- Do not share credentials.
+- Report suspicious activity to security@acme.lab.

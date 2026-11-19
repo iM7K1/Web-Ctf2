@@ -1,0 +1,7 @@
+# runtime files created when the CTF runs
+scoreboard.db
+challenges/*/app.db
+challenges/*/uploads/
+challenges/*/secret/
+__pycache__/
+*.pyc
